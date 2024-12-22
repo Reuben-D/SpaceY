@@ -1,4 +1,5 @@
 # SpaceY
+<p style="text-align: center;">This text is centered!</p>
 
 The aim of the project was develop a predictive model to determine the likelihood of 
 a stage 1 successful landing as part of an investigation by SpaceY. The initial step 
